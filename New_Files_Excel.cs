@@ -29,8 +29,9 @@ namespace C_Sharp_Read_Excel_File_12_07_2023
             // Save the excel file as XLS, XLSX, CSV, TSV, JSON, XML, HTML and streams
             workBook.SaveAs("C:\\Users\\Fishman_1\\Documents\\sample.xlsx");
         }
-        public static void LoadFiles()
+        public  static List<string> LoadFiles()
         {
+            List<string> filesCell = new List<string>();
             // Supported for XLSX, XLS, XLSM, XLTX, CSV and TSV
             WorkBook workBook = WorkBook.Load("C:\\Users\\Fishman_1\\Documents\\sample.xlsx");
 
@@ -46,7 +47,8 @@ namespace C_Sharp_Read_Excel_File_12_07_2023
             // Read from ranges of cells elegantly.
             foreach (var cell in workSheet["A2:A10"])
             {
-                Console.WriteLine("Cell {0} has value '{1}'", cell.AddressString, cell.Text);
+                filesCell.Add(cell.Value.ToString());
+               // Console.WriteLine("Cell {0} has value '{1}'", cell.AddressString, cell.Text);
             }
 
             // Calculate aggregate values such as Min, Max and Sum
@@ -54,6 +56,7 @@ namespace C_Sharp_Read_Excel_File_12_07_2023
 
             // Linq compatible
             decimal max = workSheet["A2:A10"].Max(c => c.DecimalValue);
+            return filesCell;
         }
        
     }
