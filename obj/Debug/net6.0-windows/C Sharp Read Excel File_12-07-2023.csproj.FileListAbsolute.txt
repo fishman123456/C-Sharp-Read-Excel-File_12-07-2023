@@ -1,0 +1,22 @@
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\bin\Debug\net6.0-windows\C Sharp Read Excel File_12-07-2023.exe
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\bin\Debug\net6.0-windows\C Sharp Read Excel File_12-07-2023.deps.json
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\bin\Debug\net6.0-windows\C Sharp Read Excel File_12-07-2023.runtimeconfig.json
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\bin\Debug\net6.0-windows\C Sharp Read Excel File_12-07-2023.dll
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\bin\Debug\net6.0-windows\C Sharp Read Excel File_12-07-2023.pdb
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\bin\Debug\net6.0-windows\BitMiracle.LibTiff.NET.dll
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\bin\Debug\net6.0-windows\IronSoftware.Drawing.Common.dll
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\bin\Debug\net6.0-windows\IronXL.dll
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\obj\Debug\net6.0-windows\C Sharp Read Excel File_12-07-2023.csproj.AssemblyReference.cache
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\obj\Debug\net6.0-windows\C_Sharp_Read_Excel_File_12_07_2023.Form1.resources
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\obj\Debug\net6.0-windows\C Sharp Read Excel File_12-07-2023.csproj.GenerateResource.cache
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\obj\Debug\net6.0-windows\C Sharp Read Excel File_12-07-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\obj\Debug\net6.0-windows\C Sharp Read Excel File_12-07-2023.AssemblyInfoInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\obj\Debug\net6.0-windows\C Sharp Read Excel File_12-07-2023.AssemblyInfo.cs
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\obj\Debug\net6.0-windows\C Sharp Read Excel File_12-07-2023.csproj.CoreCompileInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\obj\Debug\net6.0-windows\C Sharp Read Excel File_12-07-2023.csproj.CopyComplete
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\obj\Debug\net6.0-windows\C Sharp Read Excel File_12-07-2023.dll
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\obj\Debug\net6.0-windows\refint\C Sharp Read Excel File_12-07-2023.dll
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\obj\Debug\net6.0-windows\C Sharp Read Excel File_12-07-2023.pdb
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\obj\Debug\net6.0-windows\C Sharp Read Excel File_12-07-2023.genruntimeconfig.cache
+C:\Users\Fishman_1\Documents\GitHub\C Sharp Read Excel File_12-07-2023\obj\Debug\net6.0-windows\ref\C Sharp Read Excel File_12-07-2023.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0EsPDN7pd91g64zpwXrjpV2T4ClB11dQXaRDrzH4YraSkREkNe7wd446CEkcwXZB7LPi0v5yGwZOZfXpd8cTcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fishman_1\\Documents\\GitHub\\C Sharp Read Excel File_12-07-2023\\C Sharp Read Excel File_12-07-2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fishman_1\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\Fishman_1\\.nuget\\packages\\ironsoftware.system.drawing\\2023.7.1\\ironsoftware.system.drawing.2023.7.1.nupkg.sha512",
+    "C:\\Users\\Fishman_1\\.nuget\\packages\\ironxl.excel\\2023.7.4\\ironxl.excel.2023.7.4.nupkg.sha512",
+    "C:\\Users\\Fishman_1\\.nuget\\packages\\sixlabors.imagesharp\\3.0.0\\sixlabors.imagesharp.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fishman_1\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
